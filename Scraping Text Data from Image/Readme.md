@@ -4,7 +4,7 @@
 Here I've used Python+pytesseract+PIL+Text Processing techniques for scraping text written into an Invoice image. After scraping the raw text, I've performed text pre processing and stored each column values of Invoice into a Dictionary form in a format of Key Value Pairs.
 
 ### View ScreenRecording for Live Demo:
-[![Demo Doccou alpha](https://github.com/amark720/NLP-Projects/blob/main/Scraping%20Text%20Data%20from%20Invoice/InvoiceToText%20Recording.gif)](https://github.com/amark720/NLP-Projects/blob/main/Scraping%20Text%20Data%20from%20Invoice/InvoiceToText%20Recording.gif)
+[![Demo Doccou alpha](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Scraping%20Text%20Data%20from%20Image/InvoiceToText%20Recording.gif)](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Scraping%20Text%20Data%20from%20Image/InvoiceToText%20Recording.gif)
 
 Follow the instructions mentioned there into the Python file to rerun this project into your local machine. And keep in mind that We've to change the text Preprocessing code as per the Invoice format you're going to put into the program. I've designed it specifically for this Invoice image.
 
