@@ -18,3 +18,8 @@ Optical Charecter Recognition (OCR) is the ability that gives a mobile to read t
 
 
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to this Project!
+
+<!-- References:
+Course - https://www.udemy.com/course/text-recognizer-in-android-using-ml-kit/
+Badges - https://github.com/Ileriayo/markdown-badges
+-->
