@@ -6,14 +6,14 @@ Optical Charecter Recognition (OCR) is the ability that gives a mobile to read t
 ## ScreenRecording:
 [![Demo Doccou alpha](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Text%20Recognizer%20Android%20App%20(FireBase%20%2B%20AutoML)/App%20Demo%20Video.gif)](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Text%20Recognizer%20Android%20App%20(FireBase%20%2B%20AutoML)/App%20Demo%20Video.gif)
 
-** Note**
+**Note:**
 * Anyone can try this app on their Android device. Just download TextRecognizer.apk from the above uploaded files and install it on your device and try the App.
 * If you want to Modify and further improve the App then, Download "TextRecognizer Full Project.zip" and after extracting it, import the project into Android Studio.
 
 
 ## Screenshot:
 
-#### &emsp;&emsp; Landing Page! &emsp;&emsp;&emsp;&emsp;&emsp; Output!
+#### &emsp;&emsp;&emsp;&emsp; Landing Page! &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Output!
 <img src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Text%20Recognizer%20Android%20App%20(FireBase%20%2B%20AutoML)/ScreenShot.jpg" alt="Landing Page" height="70%" width="80%">
 
 
