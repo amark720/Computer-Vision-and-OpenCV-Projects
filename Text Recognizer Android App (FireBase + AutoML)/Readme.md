@@ -13,7 +13,7 @@ Optical Charecter Recognition (OCR) is the ability that gives a mobile to read t
 
 ## Screenshot:
 
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Landing Page! &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Output Page!
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Landing Page! &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Output Page!
 <img src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Text%20Recognizer%20Android%20App%20(FireBase%20%2B%20AutoML)/ScreenShot.jpg" alt="Landing Page" height="70%" width="80%">
 
 
