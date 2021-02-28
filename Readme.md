@@ -10,6 +10,9 @@
 <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ComputerVision_Banner.png" alt="Landing Page" height="50%" width="70%" />
 
 
-### Don't forget to ⭐ the repository, if it helped you in anyway.
+### Don't forget to ⭐ the repository, if it helped you in anyway. <br>
+
+### Repo Stats:
+[![GitHub](https://img.shields.io/github/followers/amark720?style=social)](https://github.com/amark720)  &ensp;  [![GitHub](https://img.shields.io/github/stars/amark720/Computer-Vision-and-OpenCV-Projects?style=social)](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/amark720/Computer-Vision-and-OpenCV-Projects?style=social)](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects)
 
 #### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
