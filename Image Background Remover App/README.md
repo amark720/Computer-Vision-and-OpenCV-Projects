@@ -13,6 +13,14 @@ The **Image Background Remover** is a Python-based desktop application that allo
 
 ---
 
+### ScreenShot (Input Image):
+<img align=center src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Background%20Remover%20App/InputImg.jpg" width=40% height=60% >
+
+### ScreenShot (Output Image):
+<img align=center src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Background%20Remover%20App/OutputImg.png" width=40% height=60% >
+
+---
+
 ## **Technologies Used**  
 - **Programming Language:** Python  
 - **GUI Library:** Tkinter  
@@ -43,11 +51,7 @@ To run this application on your local machine, follow these steps:
    pip install -r requirements.txt
    ```
 
-### ScreenShot (Input Image):
-<img align="center" src="https://github.com/amark720/NLP-Projects/blob/main/GenAI%20Cold%20Email%20Generator/ScreenRecording.gif" width=50% height=60% >
-
-### ScreenShot (Output Image):
-<img align="center" src="https://github.com/amark720/NLP-Projects/blob/main/GenAI%20Cold%20Email%20Generator/ScreenRecording.gif" width=50% height=60% >
+---
 
 ## How to Use:
 
@@ -60,6 +64,7 @@ To run this application on your local machine, follow these steps:
 4. A new window will display the processed image.
 5. Use the "**Save Image**" button to download the result to your system in PNG format.
 
+---
 
 ### Areas of Further Improvement
 1. **Support for Batch Processing:** Add the ability to process multiple images simultaneously.
@@ -67,6 +72,8 @@ To run this application on your local machine, follow these steps:
 3. **Quality Enhancement:** Improve the resolution and clarity of the output by fine-tuning the background removal model.
 4. **Custom Backgrounds:** Allow users to replace the background with custom images or colors.
 5. **Cross-Platform Support:** Package the application into standalone executables for Windows, macOS, and Linux.
+
+---
 
 ### Conclusion
 The Image Background Remover simplifies the tedious task of removing image backgrounds, making it quick and accessible for everyone. 
