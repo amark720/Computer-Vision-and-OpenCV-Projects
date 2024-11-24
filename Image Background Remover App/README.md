@@ -13,11 +13,10 @@ The **Image Background Remover** is a Python-based desktop application that allo
 
 ---
 
-### ScreenShot (Input Image):
-<img align=center src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Background%20Remover%20App/InputImg.jpg" width=40% height=60% >
+### Screenshots:
 
-### ScreenShot (Output Image):
-<img align=center src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Background%20Remover%20App/OutputImg.png" width=40% height=60% >
+| <h4>Input Image</h4> <img src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Background%20Remover%20App/InputImg.jpg" align="center" width=600 height=470 /> | <h4>Output Image</h4> <img src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Background%20Remover%20App/OutputImg.png" align="center" width=600 height=470 /> |
+| ------------ | ------------ | 
 
 ---
 
