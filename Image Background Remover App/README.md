@@ -34,8 +34,8 @@ To run this application on your local machine, follow these steps:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/image-background-remover.git
-   cd image-background-remover
+   git clone https://github.com/amark720/Computer-Vision-and-OpenCV-Projects.git
+   cd "Image Background Remover App"
    ```
 2. **Create and Activate Virtual Environment (Optional):**  
    ```bash
