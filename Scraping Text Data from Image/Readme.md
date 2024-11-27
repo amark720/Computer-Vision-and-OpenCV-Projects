@@ -22,24 +22,24 @@ This project demonstrates how to extract and process text from invoice images us
 
 
 ## **Installation Instructions**
-### Step 1: Clone the Repository
+#### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/amark720/Computer-Vision-and-OpenCV-Projects.git
 cd "Scraping Text Data from Image"
 ```
 
-### Step 2: Install Required Libraries
+#### Step 2: Install Required Libraries
 Install the necessary Python libraries:
 ```bash
 pip install pytesseract pillow
 ```
 
-### Step 3: Install Tesseract OCR
+#### Step 3: Install Tesseract OCR
 Download and install **Tesseract OCR** from [HERE](https://github.com/tesseract-ocr/tesseract):
 - Use the installer: `tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe (64-bit)`
 - During installation, note the installation directory for later use.
 
-### Step 4: Update Paths in Code
+#### Step 4: Update Paths in Code
 - Update the `tesseract_cmd` variable in the code with the path to your `tesseract.exe` file.
 - Provide the path to the invoice image you wish to process.
 
