@@ -10,11 +10,11 @@ ResNet-50 is a pretrained Deep Learning model for image classification of the Co
 
 ### Single Image Classification-
 
-<a href="https://www.kaggle.com/datawarriors/image-classifier-using-resnet50" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Deep%20Learning%20Projects/Image%20Classifier%20Using%20Resnet50/Screenshot1.PNG" width=80% height=40% > </a>
+<a href="https://www.kaggle.com/datawarriors/image-classifier-using-resnet50" target="_blank"><img src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Classifier%20Using%20Resnet50/Screenshot1.PNG" width=80% height=40% > </a>
 
 ### Multiple Image Classification-
 
-<a href="https://www.kaggle.com/datawarriors/image-classifier-using-resnet50" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Deep%20Learning%20Projects/Image%20Classifier%20Using%20Resnet50/Screenshot2.PNG" width=80% height=40% > </a>
+<a href="https://www.kaggle.com/datawarriors/image-classifier-using-resnet50" target="_blank"><img src="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects/blob/main/Image%20Classifier%20Using%20Resnet50/Screenshot2.PNG" width=80% height=40% > </a>
 
 
 ### Kaggle Notebook Link -> https://www.kaggle.com/datawarriors/image-classifier-using-resnet50
