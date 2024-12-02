@@ -32,7 +32,7 @@ This project uses Flask for the web app and its deployment is done on AWS Ec2.
 
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to this Project!
 <!--- For Deployment to AWS follow this tutorial - https://www.youtube.com/watch?v=oOqqwYI60FI&ab_channel=KrishNaik
-
+Tutorial Link- https://www.youtube.com/watch?v=Ie4-AOpPxBg&ab_channel=KrishNaik
 For keeping server running on EC2 instance after ssh is terminated - https://stackoverflow.com/questions/21193988/keep-server-running-on-ec2-instance-after-ssh-is-terminated
 
 
